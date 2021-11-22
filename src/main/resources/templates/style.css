@@ -1,0 +1,19 @@
+#ragnoVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+#video-container {
+    height: 10em;
+    position: relative }
+h1 {
+    margin: 0;
+    position: absolute;
+    color: yellow;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
